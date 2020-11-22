@@ -12,7 +12,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 [+] Petunjuk penggunaan: bash md5.sh<br>
 
 # installation:
-<h5><b><u>Linux deb</b></u><br></h5>
+<h3><b><u>Linux deb</b></u><br></h3>
     1.apt-get install git<br>
     2.apt-get install bash<br>
     3.apt-get install lolcat<br>
