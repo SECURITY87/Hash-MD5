@@ -1,11 +1,5 @@
 # MD5-hash
 Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang terenkripsi<br>
-_               _                         _ ____  <br>
-| |__   __ _ ___| |__        _ __ ___   __| | ___| <br>
-| '_ \ / _` / __| '_ \ _____| '_ ` _ \ / _` |___ \ <br>
-| | | | (_| \__ \ | | |_____| | | | | | (_| |___) |<br>
-|_| |_|\__,_|___/_| |_|     |_| |_| |_|\__,_|____/ <br>
-                                                   <br>
  --------------------------------------<br>
    Tipe Tools      : MD5 hash        #<br>
    Team            : TazManianDevil  #<br>
@@ -35,8 +29,9 @@ _               _                         _ ____  <br>
     5.apt install curl<br>
     6.git clone https://github.com/tazmaniandevilcyberteam/hash-md5<br>
     7.cd hash-md5<br>
-    8.bash md5.sh
-<a href="https://saweria.co/security87">Donation</a>   
+    8.bash md5.sh<br>
+<a href="https://instagram.com/xploitsecid">Instagram SECURITY87</a><br>
+<a href="https://saweria.co/security87">Donation</a>   <br>
 """
 Collab with TazManianDevil Cyber Team
 & DemonX
