@@ -36,4 +36,5 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 Collab with TazManianDevil Cyber Team
 & DemonX
 """
+@tazmaniandevilcyberteam
     
