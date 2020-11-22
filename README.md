@@ -12,7 +12,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 [+] Petunjuk penggunaan: bash md5.sh<br>
 
 # installation:
-<h3><b><u>Linux deb</b></u><br></h3>
+<h3><u>Linux deb</u><br></h3>
     1.apt-get install git<br>
     2.apt-get install bash<br>
     3.apt-get install lolcat<br>
@@ -21,7 +21,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
     6.git clone https://github.com/SECURITY87/MD5-hash <br>
     7.cd Hash-MD5<br>
     8.bash md5.sh <br>
-<b><u>Termux</b></u><br>
+<h3><u>Termux</u></h3><br>
     1.apt install git <br>
     2.apt install bash<br>
     3.apt install lolcat<br>
