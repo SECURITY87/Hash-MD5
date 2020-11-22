@@ -1,21 +1,21 @@
 # MD5-hash
 Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang terenkripsi<br>
-_               _                         _ ____  
-| |__   __ _ ___| |__        _ __ ___   __| | ___| 
-| '_ \ / _` / __| '_ \ _____| '_ ` _ \ / _` |___ \ 
-| | | | (_| \__ \ | | |_____| | | | | | (_| |___) |
-|_| |_|\__,_|___/_| |_|     |_| |_| |_|\__,_|____/ 
-                                                   
- --------------------------------------
- #  Tipe Tools      : MD5 hash        #
- #  Team            : TazManianDevil  #
- #  Re-Code By      : SECURITY87      #
- #  Tanggal Dibuat  : 06/29/2020      #
- --------------------------------------
-
-[+] Re-Code By SECURITY87
-
-[+] Petunjuk penggunaan: bash md5.sh
+_               _                         _ ____  <br>
+| |__   __ _ ___| |__        _ __ ___   __| | ___| <br>
+| '_ \ / _` / __| '_ \ _____| '_ ` _ \ / _` |___ \ <br>
+| | | | (_| \__ \ | | |_____| | | | | | (_| |___) |<br>
+|_| |_|\__,_|___/_| |_|     |_| |_| |_|\__,_|____/ <br>
+                                                   <br>
+ --------------------------------------<br>
+ #  Tipe Tools      : MD5 hash        #<br>
+ #  Team            : TazManianDevil  #<br>
+ #  Re-Code By      : SECURITY87      #<br>
+ #  Tanggal Dibuat  : 06/29/2020      #<br>
+ --------------------------------------<br>
+<br>
+[+] Re-Code By SECURITY87<br>
+<br>
+[+] Petunjuk penggunaan: bash md5.sh<br>
 
 # installation:
 <b><u>Linux deb</b></u><br>
