@@ -33,8 +33,8 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 <a href="https://instagram.com/xploitsecid">Instagram SECURITY87</a><br>
 <a href="https://saweria.co/security87">Donation</a>   <br>
 """
-Collab with TazManianDevil Cyber Team
+Collab with <a href="https://github.com/tazmaniandevilcyberteam">TazManianDevil Cyber Team</a>
 & DemonX
 """
-@tazmaniandevilcyberteam
+
     
