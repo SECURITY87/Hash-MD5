@@ -18,8 +18,8 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
     3.apt-get install lolcat<br>
     4.apt-get install figlet<br>
     5.apt-get install curl<br>
-    6.git clone https://github.com/tazmaniandevilcyberteam/hash-md5 <br>
-    7.cd hash-md5<br>
+    6.git clone https://github.com/SECURITY87/MD5-hash <br>
+    7.cd Hash-MD5<br>
     8.bash md5.sh <br>
 <b><u>Termux</b></u><br>
     1.apt install git <br>
@@ -27,8 +27,8 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
     3.apt install lolcat<br>
     4.pt install figlet<br>
     5.apt install curl<br>
-    6.git clone https://github.com/tazmaniandevilcyberteam/hash-md5<br>
-    7.cd hash-md5<br>
+    6.git clone https://github.com/SECURITY87/MD5-hash<br>
+    7.cd Hash-MD5<br>
     8.bash md5.sh<br>
 <a href="https://instagram.com/xploitsecid">Instagram SECURITY87</a><br>
 <a href="https://saweria.co/security87">Donation</a>   <br>
