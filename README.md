@@ -9,7 +9,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 <br>
 [+] Re-Code By SECURITY87<br>
 <br>
-[+] Petunjuk penggunaan: bash <a href="#md5.sh">md5.sh</a><br>
+[+] Petunjuk penggunaan: bash <a href="#md5-hash">md5.sh</a><br>
 
 # installation:
 <h4><u>Linux deb</u><br></h4>
