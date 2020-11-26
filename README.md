@@ -30,7 +30,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
     6.git clone https://github.com/SECURITY87/MD5-hash<br>
     7.cd Hash-MD5<br>
     8.bash md5.sh<br>
-#  others 
+<h2>others </h2>
 <br>
 <a href="https://instagram.com/xploitsecid">Instagram SECURITY87</a><br>
 <a href="https://saweria.co/security87">Donation</a>   <br>
