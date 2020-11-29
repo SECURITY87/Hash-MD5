@@ -39,12 +39,14 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 * [INSTAGRAM](https://instagram.com/xploitsecid)
 * [DONASI](https://saweria.co/security87)
 ---
-Support Dengan Cara Klik Bintang/star<br>
 ---
+Support Dengan Cara Klik Bintang/star<br>
+
 <sup>
 """
 Collab with <a href="https://github.com/tazmaniandevilcyberteam">TazManianDevil Cyber Team</a>
 & DemonX
 """
  </sup>
+ ---
     
