@@ -35,7 +35,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
     8.bash md5.sh<br>
 ```
 # others 
-<br>
+---
 * [INSTAGRAM](https://instagram.com/xploitsecid)
 * [DONASI](https://saweria.co/security87)
 ---
