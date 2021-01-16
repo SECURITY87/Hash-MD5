@@ -36,7 +36,7 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 ```
 # others 
 ---
-* [INSTAGRAM](https://instagram.com/xploitsecid)
+* [INSTAGRAM](https://instagram.com/Haxnoloy_ID)
 * [DONASI](https://saweria.co/security87)
 ---
 ---
