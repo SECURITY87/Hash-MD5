@@ -25,11 +25,11 @@ Tools ini adalah tools dari team TazManianDevil Cyber Team, untuk hash md5 yang 
 ```
 **Termux**
 ```
-    1.apt install git <br>
-    2.apt install bash<br>
-    3.apt install lolcat<br>
-    4.apt install figlet<br>
-    5.apt install curl<br>
+    1.Pkg install git <br>
+    2.Pkg install bash<br>
+    3.Pkg install lolcat<br>
+    4.Pkg install figlet<br>
+    5.Pkg install curl<br>
     6.git clone https://github.com/SECURITY87/MD5-hash<br>
     7.cd Hash-MD5<br>
     8.bash md5.sh<br>
